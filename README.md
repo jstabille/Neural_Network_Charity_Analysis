@@ -1,4 +1,4 @@
-# Alphabet Soup Charity Neural Network Analysis /
+# Alphabet Soup Charity Neural Network Analysis
 
 ## Overview
 
