@@ -1,4 +1,4 @@
-# Alphabet Soup Charity Neural Network Analysis
+# Alphabet Soup Charity Neural Network Analysis /
 
 ## Overview
 
@@ -32,4 +32,4 @@ In my fourth attempt, I removed the " STATUS" column as well as I thought it was
 
 ## Summary
 
-After four attempts, I was unable to create a model that could preform a 75% accuracy rating. This is potential because I got rid of too many columns, I did not use the correct activation function, or I did not have the right amount of layers and neurons. These were the main areas I continued the change with little to no improvement. Next time, I would research more about activation functions to make sure that I am always choosing the right one based on the data. 
+After four attempts, I was unable to create a model that could preform a 75% accuracy rating. This is potential because I got rid of too many columns, I did not use the correct activation function, or I did not have the right amount of layers and neurons. These were the main areas I continued the change with little to no improvement. Next time, I would research more about activation functions to make sure that I am always choosing the right one based on the data/ 
